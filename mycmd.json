@@ -1,7 +1,7 @@
 {
-  "mycmd1": "system('color a')",
-  "mycmd2": "system('cls')",
-  "mycmd3": "system('echo $ Enjoy ! $')",
+  "mycmd1": system('color a'),
+  "mycmd2": system('cls'),
+  "mycmd3": system('echo $ Enjoy ! $'),
   "mycmd4": 372,
 
 }
