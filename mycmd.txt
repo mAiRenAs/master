@@ -1,1 +1,3 @@
-system("echo OK ...")
+system("color a")
+system("cls")
+system("echo $ Enjoy ! $")
